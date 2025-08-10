@@ -11,7 +11,6 @@
 
 <h2 align="left">💻 About Me</h2>
 
-- 🔭 Currently working on: **Holographic 3D-Based Simulation Portfolio**
 - 🌱 Currently learning: **C++, ROS, Unreal Engine 5, Linear Regression in C++**
 - 👯 Open to collaborate on: **AI-powered Game Projects, Robotics Automation Projects**
 - 🤝 Seeking help with: **Advanced Unreal Engine 5 Game Mechanics & Blender Design Tips**
@@ -69,7 +68,6 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 <ul>
-    <li><b>Holographic 3D Simulation Portfolio</b> - Combining AI with 3D interactive content.</li>
     <li><b>AI NPC Game (UE5)</b> - Dynamic NPC behavior with machine learning.</li>
     <li><b>Robotic Arm Control (Python + ROS)</b> - Real-time control using AI models.</li>
 </ul>
