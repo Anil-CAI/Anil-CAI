@@ -1,103 +1,88 @@
-<h1 align="center">👋 Hey There! Here  Anil Kumar 👨‍💻</h1>
-<h3 align="center">Passionate Computer Artificial Engineering student with a creative spark — blending AI, Game Development, and Robotics to craft innovative tech solutions!</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B4D8&width=600&lines=VR+Game+Developer+%7C+Unreal+Engine+5;Robot+Teleoperation+Engineer;Building+XR+Worlds+%2B+Remote+Robots;India+%E2%86%92+Japan+%7C+%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%AD%A6%E7%BF%92%E4%B8%AD" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Anil-Cai&label=Profile%20views&color=0e75b6&style=flat" alt="anil-cai" />
+    <img src="https://komarev.com/ghpvc/?username=Anil-Cai&label=Profile%20views&color=0e75b6&style=flat-square" alt="anil-cai" />
 </p>
 
-<img align="right" height="200" src="https://tse4.mm.bing.net/th?id=OIP.Pt8-fudeDjsLc897F_fZSwHaFj&pid=Api&P=0&h=180" alt="Custom Image" />
+---
+
+### 💻 About Me
+
+- 🕶️ **VR Developer** building immersive experiences in Unreal Engine 5
+- 🤖 **Robotics Engineer** exploring VR-based robot teleoperation systems
+- 🏗️ **Currently building**: [vr_theater](https://github.com/Anil-Cai/vr_theater) — a VR cinema experience in JavaScript/WebXR
+- 📚 **Learning**: ROS2 · C++ · OpenXR · Japanese language (JLPT N5)
+- 🎯 **Goal**: Game Developer or Robotics Engineer at a Japan-based company
+- 🤝 **Open to collaborate on**: VR projects · Robot control systems · AI-powered games
+- 💬 **Ask me about**: Unreal Engine · Blender · ROS-Turtlesim · Python AI
+- 📫 **Contact**: [ballaanilkumar369@gmail.com](mailto:ballaanilkumar369@gmail.com)
 
 ---
 
-<h2 align="left">💻 About Me</h2>
+### 🚀 Languages & Tools
 
-- 🌱 Currently learning: **C++, ROS, Unreal Engine 5, Linear Regression in C++**
-- 👯 Open to collaborate on: **AI-powered Game Projects, Robotics Automation Projects**
-- 🤝 Seeking help with: **Advanced Unreal Engine 5 Game Mechanics & Blender Design Tips**
-- 💬 Ask me about: **Game Development, AI Projects, Robotics, Python, FastAPI, Blender**
-- 📫 Contact me at: **ballaanilkumar369@gmail.com**
-- ⚡ Fun fact: **I think I'm funny...but my robots strongly disagree 😎**
-
----
-
-<h2 align="left">🌐 Connect With Me</h2>
 <p align="left">
-    <a href="https://linkedin.com/in/anil-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil ai" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/WebXR-FF4B4B?style=for-the-badge&logo=webxr&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-<h2 align="left">🚀 Languages & Tools</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" /></a>
-    <a href="https://unrealengine.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" /></a>
-    <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /></a>
-    <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" /></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" /></a>
-</p>
+### 📊 GitHub Stats
 
----
-
-<h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anil-Cai&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-Cai&layout=compact&theme=tokyonight" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anil-Cai&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-Cai&layout=compact&theme=tokyonight" height="180" />
+</div>
+<br/>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anil-Cai&theme=tokyonight" height="180" />
 </div>
 
 ---
 
-<h2 align="left">🐍 Contribution Snake</h2>
+### 🐍 Contribution Snake
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/Anil-Cai/Anil-Cai/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<h2 align="left">✨ Fun Stuff</h2>
-<div align="center">
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200">
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200">
-    <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="200">
-</div>
+### 🛠️ What I'm Building Now
+
+- **vr_theater** — WebXR virtual cinema (JavaScript + A-Frame)
+- **ROS Turtlesim projects** — Learning robot control fundamentals
+- **Studying**: Unreal Engine 5 Advanced Game Mechanics
+- **Japanese**: Practicing daily — 日本語学習中 🇯🇵
 
 ---
 
-<h2 align="left">🚀 Featured Projects</h2>
-<ul>
-    <li><b>AI NPC Game (UE5)</b> - Dynamic NPC behavior with machine learning.</li>
-    <li><b>Robotic Arm Control (Python + ROS)</b> - Real-time control using AI models.</li>
-</ul>
+### 🇯🇵 My Japan Goal
+
+Japan leads the world in both game development and robotics engineering. I'm actively preparing to contribute to Japan's tech industry by:
+
+- **Building VR and teleoperation systems** that align with Japanese industry needs.
+- **Learning Japanese language** (currently N5 level).
+- **Targeting companies like**: Telexistence, Capcom, Sony Interactive, FANUC.
+
+> **日本語**: ゲーム開発者とロボットエンジニアとして日本で働きたいです。
 
 ---
 
-<h2 align="left">📌 Currently Exploring</h2>
-<ul>
-    <li>🎮 Advanced Unreal Engine 5 Game Mechanics</li>
-    <li>🤖 Real-time AI & Robotics Integration</li>
-    <li>🧠 Deep Learning in Game Environments</li>
-</ul>
-
----
-
-<h2 align="left">🎉 Fun Fact</h2>
-<p><i>"Robots don't laugh at my jokes, but they do obey my code — so I guess that's a win!"</i></p>
-
----
-
-<h2 align="left">🛠️ Profile Features Added</h2>
-<ul>
-    <li>✅ Custom Image (Bing Image)</li>
-    <li>✅ Animated Fun GIFs</li>
-    <li>✅ Snake Contribution Graph</li>
-    <li>✅ Compact & Themed GitHub Stats</li>
-    <li>✅ Project Highlight Section</li>
-</ul>
-
----
-
-<h2 align="left">💬 Final Note</h2>
-<p align="center"><b>Thanks for visiting my profile!</b> Let's innovate, create, and build some amazing things together. 🚀</p>
+<p align="center">
+  <b>Thanks for visiting! Let's build the future together. 🚀</b>
+</p>
