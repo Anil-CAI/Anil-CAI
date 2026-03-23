@@ -14,7 +14,7 @@
 
 - 🕶️ **VR Developer** building immersive experiences in Unreal Engine 5
 - 🤖 **Robotics Engineer** exploring VR-based robot teleoperation systems
-- 🏗️ **Currently building**: [vr_theater](https://github.com/Anil-Cai/vr_theater) — a VR cinema experience in JavaScript/WebXR
+- 🏗️ **Currently building**: [vr_theater](https://github.com/Anil-CAI/vr_theater) — a VR cinema experience in JavaScript/WebXR
 - 📚 **Learning**: ROS2 · C++ · OpenXR · Japanese language (JLPT N5)
 - 🎯 **Goal**: Game Developer or Robotics Engineer at a Japan-based company
 - 🤝 **Open to collaborate on**: VR projects · Robot control systems · AI-powered games
@@ -44,12 +44,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anil-Cai&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-Cai&layout=compact&theme=tokyonight" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anil-CAI&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-CAI&layout=compact&theme=tokyonight" height="180" />
 </div>
 <br/>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anil-Cai&theme=tokyonight" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anil-CAI&theme=tokyonight" height="180" />
 </div>
 
 ---
@@ -57,7 +57,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Anil-Cai/Anil-Cai/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Anil-CAI/Anil-CAI/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
